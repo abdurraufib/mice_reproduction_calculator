@@ -1,4 +1,4 @@
-# mice_reproduction_calculator
+mice_reproduction_calculator
 ==================
 By Ibrahim Abdur-Rauf <ibrauf@umich.edu>
 
